@@ -1,0 +1,15 @@
+Hello grader!
+
+Run the following in ubuntu:
+
+git clone git@github.coecis.cornell.edu:mmc323/CS-3110-CHESS.git
+cd CS-3110-CHESS
+make build
+make play
+
+Enjoy!
+
+Notes:
+Some shells have trouble displaying the unicode characters for chess pieces,
+causing the board to be misrendered. If this happens, try running the program
+in the vscode terminal.

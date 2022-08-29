@@ -1,0 +1,5 @@
+(library
+ (name chess)
+ (public_name Chess)
+ (instrumentation
+  (backend bisect_ppx)))
